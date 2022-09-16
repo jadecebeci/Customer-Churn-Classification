@@ -61,7 +61,9 @@ Throughout the project, our goal was reducing False Negatives (Type II error). W
 * Improving customer service. The more customer service calls, the more people leave the plan.
 * Focus on international plan and prevent international customer from leaving
 
-
+## Additional Information
+* [Presentation Slide](pdfs/presentation.pdf)
+* [Data Source](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)
 
 
 
