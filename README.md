@@ -12,7 +12,7 @@
 
 ## Business Understanding
 
-Syriatel is telecommunications company that has concerns regarding churn rate.Using customer account data,we will analyze what features from the data are most important in predicting customer churn, or whether or not they will leave the company. In order to do this the notebook will provide classification models aimed at producing the highest possible recall metric.Predicting as many positives as possible out of actual positives from dataset is the goal here, thus recall has been chosen as one of the performance matrices along with an accuracy score and AUC score
+Syriatel is telecommunications company that has concerns regarding churn rate.Using customer account data,we will analyze what features from the data are most important in predicting customer churn,whether or not they will leave the company. In order to do this the notebook will provide classification models aimed at producing the highest possible recall metric.Predicting as many positives as possible out of actual positives from dataset is the goal here, thus recall has been chosen as one of the performance matrices along with an accuracy score and AUC score
 
 ## Data Understanding
 
